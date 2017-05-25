@@ -10,7 +10,7 @@ locale                   : "en"
 title                    : "Anh Luong"
 title_separator          : "-"
 name                     : "Anh Luong"
-description              : "I'll think about it..."
+description              : 
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -83,18 +83,18 @@ author:
   location         : "Salt Lake City, Utah"
   email            : anh.luong.n@gmail.com
   uri              : 
-  bitbucket        : https://bitbucket.org/anh_luong/
+  bitbucket        : anh_luong
   codepen          : 
   dribbble         : 
   flickr           : 
   facebook         : 
   foursquare       : 
-  github           : https://github.com/anhluong
+  github           : anhluong
   google_plus      : 
   keybase          : 
   instagram        : 
   lastfm           : 
-  linkedin         : https://www.linkedin.com/in/anhnluong/
+  linkedin         : anhnluong
   pinterest        : 
   soundcloud       : 
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
@@ -105,6 +105,7 @@ author:
   weibo            : 
   xing             : 
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
+  strava           : https://www.strava.com/athletes/16327128
 
 
 # Reading Files
