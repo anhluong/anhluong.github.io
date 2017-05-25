@@ -11,11 +11,11 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
   - title: "About me"
-      url: /_pages/aboutme.html
+      url: /
   - title: "Research"
-      url: /_pages/research.html
+      url: /research/
   - title: "Teaching"
-      url: /_pages/teaching.html
+      url: /teaching/
   - title: "Blog"
-      url: /_posts/
+      url: /blog/
   
