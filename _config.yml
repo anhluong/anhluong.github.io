@@ -78,7 +78,7 @@ analytics:
 # Site Author
 author:
   name             : "Anh Luong"
-  avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "https://github.com/anhluong/anhluong.github.io/blob/master/assets/images/bio_photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am not working..."
   location         : "Salt Lake City, Utah"
   email            : anh.luong.n@gmail.com
