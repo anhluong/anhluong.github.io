@@ -27,7 +27,7 @@ comments:
     # https://developers.facebook.com/docs/plugins/comments
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : "dark" # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "master"
@@ -78,32 +78,32 @@ analytics:
 # Site Author
 author:
   name             : "Anh Luong"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am not working..."
-  location         : "Here!"
-  email            :
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           :
-  google_plus      :
-  keybase          :
-  instagram        :
-  lastfm           :
-  linkedin         :
-  pinterest        :
-  soundcloud       :
+  location         : "Salt Lake City, Utah"
+  email            : anh.luong.n@gmail.com
+  uri              : 
+  bitbucket        : https://bitbucket.org/anh_luong/
+  codepen          : 
+  dribbble         : 
+  flickr           : 
+  facebook         : 
+  foursquare       : 
+  github           : https://github.com/anhluong
+  google_plus      : 
+  keybase          : 
+  instagram        : 
+  lastfm           : 
+  linkedin         : https://www.linkedin.com/in/anhnluong/
+  pinterest        : 
+  soundcloud       : 
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
-  steam            :
-  tumblr           :
-  twitter          :
-  vine             :
-  weibo            :
-  xing             :
+  steam            : 
+  tumblr           : 
+  twitter          : 
+  vine             : 
+  weibo            : 
+  xing             : 
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
 
 
