@@ -5,37 +5,20 @@ author_profile: true
 permalink: /research/
 ---
 
-<!Doctype> 
-<html> 
-	<head> 
-		<style> 
-			div.one { border:5px} 
-			div.two { border:5px}
-			div.three {border:5px}
-			div.four {border:5px}
-		</style> 
-	</head> 
-<body> 
-	<div class="one">
-		<h2>Current Projects</h2>
+<div class="page__related">
+  	<h4 class="page__related-title">Current Projects</h4>
+	<div class="grid__wrapper">
+	  {% for post in site.current_project %}
+	    {% include archive-single.html type="grid" %}
+	  {% endfor %}
 	</div>
-	<div class="two">
-		<div class="grid__wrapper">
-		  {% for post in site.current_project %}
-		    {% include archive-single.html type="grid" %}
-		  {% endfor %}
-		</div>
-	</div> 
-	<div class="three">
-		<h2>Previous Projects</h2>
-	</div>
-	<div class="four">
-		<div class="grid__wrapper">
-		  {% for post in site.previous_project %}
-		    {% include archive-single.html type="grid" %}
-		  {% endfor %}
-		</div>
-	</div>
-</body> 
-</html>
+</div> 
 
+<div class="page__related">
+  	<h4 class="page__related-title">Previous Projects</h4>
+	<div class="grid__wrapper">
+	  {% for post in site.previous_project %}
+	    {% include archive-single.html type="grid" %}
+	  {% endfor %}
+	</div>
+</div>
