@@ -230,6 +230,15 @@ compress_html:
     envs: development
 
 
+# Collections
+collections:
+  current_research:
+    output: true
+    permalink: /:collection/:path/
+  previous_research:
+    output: true
+    permalink: /:collection/:path/
+
 # Defaults
 defaults:
   # _posts
