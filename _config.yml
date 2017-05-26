@@ -110,9 +110,6 @@ author:
 include:
   - .htaccess
   - _pages
-  - _posts
-  - _current_research
-  - _previous_research
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -246,3 +243,19 @@ defaults:
       comments: # true
       share: true
       related: true
+  # _current_research
+  - scope:
+      path: ""
+      type: current_research
+    values:
+      layout: single
+      author_profile: true
+      share: true
+  # _previous_research
+  - scope:
+      path: ""
+      type: previous_research
+    values:
+      layout: single
+      author_profile: true
+      share: true
