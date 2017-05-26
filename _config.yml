@@ -111,6 +111,8 @@ include:
   - .htaccess
   - _pages
   - _posts
+  - _current_research
+  - _previous_research
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"

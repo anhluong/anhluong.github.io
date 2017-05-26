@@ -1,36 +1,20 @@
 ---
 title: "Research"
-layout: single
+layout: archive
 author_profile: true
 permalink: /research/
 ---
 
-<!DOCTYPE html>
-<html>
-<body>
-
-
-
 <h2>Current Projects</h2>
-<p>
-<ul>
-	<li>Detecting and Localizing Spectrum Offenders Using Crowdsourcing</li>
-	<li>Reducing Traumatic Brain Injury Risk with Impact Compensation</li>
-    <li>PlusOne: Prototyping and Validation of a Wireless In-Home Breathing Monitor for Prevention of Overdose Deaths</li>
-    <li>PlusOne: Whole Home Non-Contact Breathing Monitor to Prevent Overdose Death</li>
-</ul>
-</p>
+<div class="grid__wrapper">
+  {% for post in site.current_research %}
+    {% include archive-single.html type="grid" %}
+  {% endfor %}
+</div>
 
-<hr>
-
-<h2>Previous Projects (no longer active)</h2>
-<p>
-<ul>
-	<li><a href="https://sites.google.com/site/roselineproject/home">RoseLine: Enabling Robust, Secure and Efficient Knowledge of Time Across the System Stack</a></li>
-	<li><a href="http://span.ece.utah.edu/cps">Enabling and Advancing Human and Probabilistic Context Awareness for Smart Facilities and Elder Care</a></li>
-    <li>Contacts among Utah’s School-age Population</li>
-</ul>
-</p>
-
-</body>
-</html>
+<h2>Previous Projects</h2>
+<div class="grid__wrapper">
+  {% for post in site.previous_research %}
+    {% include archive-single.html type="grid" %}
+  {% endfor %}
+</div>
