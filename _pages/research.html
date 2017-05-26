@@ -5,15 +5,19 @@ author_profile: true
 permalink: /research/
 ---
 
-<div class="grid__wrapper">
+<div>
 <h2>Current Projects</h2>
+</div>
+<div class="grid__wrapper">
   {% for post in site.current_research %}
     {% include archive-single.html type="grid" %}
   {% endfor %}
 </div>
-
-<div class="grid__wrapper">
+<hr>
+<div>
 <h2>Previous Projects</h2>
+</div>
+<div class="grid__wrapper">
   {% for post in site.previous_research %}
     {% include archive-single.html type="grid" %}
   {% endfor %}
