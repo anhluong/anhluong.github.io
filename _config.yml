@@ -108,7 +108,6 @@ author:
   strava           : 16327128
   google_scholar   : bRiKI7MAAAAJ
 
-
 # Reading Files
 include:
   - .htaccess
