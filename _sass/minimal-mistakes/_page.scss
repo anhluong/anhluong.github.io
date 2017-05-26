@@ -406,3 +406,20 @@
   font-size: $type-size-6;
   text-transform: uppercase;
 }
+
+
+/*
+   Research Block
+   ========================================================================== */
+
+.research {
+    width: 400px;
+    border: 4px solid red;
+    padding: 20px;
+    overflow: hidden;
+}
+
+.research img {
+    margin-right: 15px;
+    float: left;
+}
