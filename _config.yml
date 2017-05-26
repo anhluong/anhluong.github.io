@@ -232,10 +232,10 @@ compress_html:
 
 # Collections
 collections:
-  current_research:
+  current_project:
     output: true
     permalink: /:collection/:path/
-  previous_research:
+  previous_project:
     output: true
     permalink: /:collection/:path/
 
@@ -255,7 +255,7 @@ defaults:
   # _current_research
   - scope:
       path: ""
-      type: current_research
+      type: current_project
     values:
       layout: single
       author_profile: true
@@ -263,7 +263,7 @@ defaults:
   # _previous_research
   - scope:
       path: ""
-      type: previous_research
+      type: previous_project
     values:
       layout: single
       author_profile: true
