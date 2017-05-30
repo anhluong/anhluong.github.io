@@ -4,23 +4,20 @@ layout: archive
 author_profile: true
 permalink: /research/
 ---
-<div class="grid__wrapper">
+<div class="cf">
 <h2 class="page__tittle">Current Projects</h2>
-</div>
-  
 <div class="grid__wrapper">
   {% for post in site.current_project %}
     {% include archive-single.html type="grid" %}
   {% endfor %}
 </div>
-
-<div class="grid__wrapper">
-<h2 class="page__tittle">Previous Projects</h2>
 </div>
-  
+
+<div class="cf">
+<h2 class="page__tittle">Previous Projects</h2>
 <div class="grid__wrapper">
   {% for post in site.previous_project %}
     {% include archive-single.html type="grid" %}
   {% endfor %}
 </div>
-
+</div>
