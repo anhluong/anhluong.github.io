@@ -3,7 +3,7 @@ title: "Non-invasive Breathing Monitoring"
 excerpt: ""
 header:
   image: 
-  teaser: /assets/images/rub/IMG_3065.JPG
+  teaser: ../assets/images/rub/IMG_3065.JPG
 ---
 
 In many applications, such as search and rescue, where you want to quickly find entrapped victims in a collapsed building. With DFL, I show that it is possible to locate people. However, it would be extremely beneficial to monitor the conditions of the victims so that we could optimize rescue efforts. Breathing is normally the first indicator of vitality. Recent research has shown that we can monitor breathing with rf sensing networks. In this work, I build the first RSSI-based real-time breathing monitoring system based on the work of Kaltiokalio and his colleagues. I demonstrate this at IPSN and received a lot of feedbacks. However, I did received a lot of questions like "why not use WiFi or UWB". These are fantastic solutions, WiFi and UWB provides much better channel information compares to RSSI. However, these solutions would come with a very high cost, bandwidth and device cost. 
