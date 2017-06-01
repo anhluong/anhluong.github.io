@@ -2,20 +2,8 @@
 title: "RoseLine: Enabling Robust, Secure and Efficient Knowledge of Time Across the System Stack"
 excerpt: ""
 header:
-  image: /assets/images/foo-bar-identity.jpg
-  teaser: /assets/images/foo-bar-identity-th.jpg
-gallery:
-  - url: /assets/images/unsplash-gallery-image-1.jpg
-    image_path: assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
-  - url: /assets/images/unsplash-gallery-image-2.jpg
-    image_path: assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-  - url: /assets/images/unsplash-gallery-image-3.jpg
-    image_path: assets/images/unsplash-gallery-image-3-th.jpg
-    alt: "placeholder image 3"
+  image: 
+  teaser: /assets/images/roseline/20161024_171056.jpg
 ---
 
-https://sites.google.com/site/roselineproject/home
-
-{% include gallery caption="Pictures!!!" %}
+[[Website](https://sites.google.com/site/roselineproject/home), [Sensys '16 Demo](http://span.ece.utah.edu/uploads/Sensys_2016_Demo.pdf)]
