@@ -2,20 +2,10 @@
 title: "Contacts among Utah’s School-age Population"
 excerpt: ""
 header:
-  image: /assets/images/foo-bar-identity.jpg
-  teaser: /assets/images/foo-bar-identity-th.jpg
-gallery:
-  - url: /assets/images/unsplash-gallery-image-1.jpg
-    image_path: assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
-  - url: /assets/images/unsplash-gallery-image-2.jpg
-    image_path: assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-  - url: /assets/images/unsplash-gallery-image-3.jpg
-    image_path: assets/images/unsplash-gallery-image-3-th.jpg
-    alt: "placeholder image 3"
+  image: https://github.com/Utah-WiESEL/wren_wsn/raw/master/base_station/images/image13.JPG
+  teaser: https://github.com/Utah-WiESEL/wren_wsn/raw/master/base_station/images/image13.JPG
 ---
 
-https://github.com/Utah-WiESEL/wren_wsn
+In this joint work, I designed and implemented the subsystem for built-in large-scale mass programming, including hardware design, firmware and software. On top of mass programming subsystem, I was part of designing the WREN system, and deployment and data collecting logistics for other systems involved in the project.
 
-{% include gallery caption="Pictures!!!" %}
+[[https://github.com/Utah-WiESEL/wren_wsn](GitHub), [/assets/doc/sensys-demo-2012.pdf](Sensys '12 Demo), [/assets/doc/p557-min.pdf](SenseApp '14)]
