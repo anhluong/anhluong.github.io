@@ -15,8 +15,13 @@
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
+<<<<<<< HEAD
+locale                   : "en"
 title                    : "Anh Luong"
+=======
+locale                   : "en-US"
+title                    : "Site Title"
+>>>>>>> upstream/master
 title_separator          : "-"
 name                     : "Anh Luong"
 description              : "Personal Website"
