@@ -3,7 +3,7 @@ title: "Reducing Traumatic Brain Injury Risk with Impact Compensation"
 excerpt: ""
 header:
   image: 
-  teaser: 
+  teaser: ../assets/images/teaser/IMG_3106.JPG
 ---
 
 TBD
