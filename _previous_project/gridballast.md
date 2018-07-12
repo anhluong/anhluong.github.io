@@ -1,5 +1,5 @@
 ---
-title: "Gridballast"
+title: "GridBallast"
 excerpt: ""
 header:
   image: 
