@@ -3,7 +3,7 @@ title: "Gridballast"
 excerpt: ""
 header:
   image: 
-  teaser: 
+  teaser: ../assets/images/teaser/GridBallastControllerCTA.jpg
 ---
 
-TBD
+[[Website](https://sites.google.com/view/gridballast/home), [GitHub](https://github.com/WiseLabCMU/gridballast)]
