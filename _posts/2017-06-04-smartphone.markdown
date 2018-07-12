@@ -3,7 +3,7 @@ title: Smartphones Revolution
 date: 2017-06-04T22:28:17-06:00
 ---
 
-![alt text](../assets/images/phone/pre-relocation.JPG "Smartphones")
+![alt text](../assets/images/phone/pre-relocation.jpg "Smartphones")
 
 I remember when the iPhone first introduced. I was still working at a computer shop then. A coworker was in the business of trading phones. Meaning, we purchase from someone else, unlock and resale at a higher cost. The initial iPhones with their software exploits create a considerable capital gain for iPhone trading by running a simple script. I got my 1st gen iPhone (very left) from pure profits of trading two phones away.
 
