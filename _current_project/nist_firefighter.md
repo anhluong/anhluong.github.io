@@ -6,4 +6,4 @@ header:
   teaser: 
 ---
 
-TBD
+[[MILC '18](https://www.microsoft.com/en-us/research/event/microsoft-indoor-localization-competition-ipsn-2018/)]
