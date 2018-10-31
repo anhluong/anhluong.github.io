@@ -4,7 +4,7 @@ date: 2018-07-14 11:28 -0400
 ---
 
 ![alt text](../assets/images/fountainpen/MVIMG_20180225_212029.jpg "Pre-vintage")
-Right to left: Cross ATX, Karas Kustoms Ink, Namisu Orion, Pilot Metropolitan, Nemosine Fission, Nemosine Neutrino, Nemosine Singularity, Hero 616, Noodler's Charlie, Lamy Al-Star Pacific, Parker Quink, Noodler's Heart of Darkness, and a ton of "teal" ink samples.
+Right to left: Cross ATX, Namisu Orion, Karas Kustoms Ink, Pilot Metropolitan, Nemosine Fission, Nemosine Neutrino, Nemosine Singularity, Hero 616, Noodler's Charlie, Lamy Al-Star Pacific, Parker Quink, Noodler's Heart of Darkness, and a ton of "teal" ink samples.
 
 During my grade school in Vietnam, I was forced to use Hero pens to learn to write. The idea is to force us to write a certain way, hopefully, more legible and beautiful. I remember the pens always create a mess. As a child, it's hard to "remember" to maintenance or keep these pens a certain way. But we learned to do it. Once we get to middle school, we were moved to ballpoint pens. I blame this period of time for my handwriting. Often, it's pre-digital age. The number of notes you can take during a class period determine your success as a student. Once moving to the US, I've adopted pencils as classroom are more worksheets oriented.
 
