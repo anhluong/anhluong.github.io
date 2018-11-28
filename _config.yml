@@ -67,6 +67,13 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
+    - label: "WCA"
+      icon: "fas fa-fw fa-cube"
+      url: "https://www.worldcubeassociation.org/results/p.php?i=2008LUON01"
+    - label: "Strava"
+      icon: "fas fa-fw fa-strava"
+      url: "https://www.worldcubeassociation.org/results/p.php?i=2008LUON01"
+
 
 # Analytics
 analytics:
