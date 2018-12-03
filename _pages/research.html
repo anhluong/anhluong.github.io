@@ -4,6 +4,11 @@ layout: archive
 author_profile: true
 permalink: /research/
 ---
+
+<link rel="stylesheet" type="text/css" href="stylebiblio.css">
+<script type="text/javascript" src="bibtextohtml.js"></script>
+
+
 <div class="cf">
 <h2 class="page__tittle">Current Projects</h2>
 <div class="grid__wrapper">
@@ -21,3 +26,54 @@ permalink: /research/
   {% endfor %}
 </div>
 </div>
+
+<h2 class="page__tittle">Publications</h2>
+
+<textarea hidden name="bibtex_input" id="bibtex_input" cols=50 rows=20>
+<?php
+
+    echo file_get_contents("bib.bib");
+
+
+?>
+< /textarea>
+
+
+
+<div id="bibtex_errors"></div>
+
+
+
+<div class="bibtex_template">
+    <li>
+    <a class="url"><span class="title"></span></a></br>
+    <span class="author"></span></br>
+    <span class="booktitle"></span>
+    <span class="if publisher">
+	<span class="publisher"></span>.
+    </span>
+    <span class="if pages">
+      p. <span class="pages"></span>.
+    </span>
+    <span class="if year">
+    <span class="year"></span></span>
+    </br>
+    <a class="bibtexCodeLink">
+	    [bibtex]
+    </a>
+    </br></br>
+  </li>
+
+ </div>
+
+<ol id="bibtex_display">
+</ol>
+
+<h2>Committee</h2>
+<p>
+<ul>
+    <li>2019 - ISJ, TOSN, IoTDI</li>
+    <li>2017 - IEEE WCNC - 2017</li>
+    <li>2015 - ACM IPSN Shadow Program Committee</li>
+</ul>
+</p>
