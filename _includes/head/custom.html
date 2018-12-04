@@ -3,29 +3,37 @@
 <!-- insert favicons. use http://realfavicongenerator.net/ -->
 
     <script type="text/javascript" src="https://code.jquery.com/jquery-2.2.0.min.js"></script>
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
     <script type="text/javascript" src="https://kha.li/dist/scholar/scholar-0.1.1.min.js"></script>
-
 
     <script type="text/javascript">
         function toggle(showHideDiv, switchTextDiv)
         {
-        var ele = document.getElementById(showHideDiv);
-        var text = document.getElementById(switchTextDiv);
-        if(ele.style.display == "block")
-        {
-            ele.style.display = "none";
-        }
-        else
-        {
-            ele.style.display = "block";
-        }
+            var ele = document.getElementById(showHideDiv);
+            var text = document.getElementById(switchTextDiv);
+            if(ele.style.display == "block")
+            {
+                ele.style.display = "none";
+            }
+            else
+            {
+                ele.style.display = "block";
+            }
         }
     </script>
 
-    <link rel="stylesheet" type="text/css" href="">
-    <style type="text/css">
+    <style>
+        .abstract {
+            font-size: 50%;
+            background-color: #fcfcfc;
+            border: 1px #ccc solid;
+        }
+
+        .bibtex {
+            font-size: 50%;
+            background-color: #fcfcfc;
+            border: 1px #ccc solid;
+        }
     </style>
 
 <!-- end custom head snippets -->
