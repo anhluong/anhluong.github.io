@@ -1,8 +1,0 @@
----
-title: Apple, Love or Hate?
-date: 2017-06-04T22:28:17-06:00
----
-
-![alt text](../assets/images/apple/pre-relocation.jpg "Apple")
-
-Right after high school, I purchased my first MacBook Pro while working at a PC Shop. This was a huge upgrade compares to the Dell Inspiron 15-inch pass down that I used for my entire high school career. They made fun of me the entire time I was working there. As an EE undergrads/full-time gamer, I was too hard to use my Mac for everything. I ended up building a PC for coursework and gaming.
